@@ -22,3 +22,8 @@ The essence of the assignment:
 3. If the password is easy - the first section is red the rest are gray;
 4. If the password is medium - the first two sections are yellow the last one is gray;
 5. If the password is strong, all sections are green;
+
+![image](https://user-images.githubusercontent.com/75263925/219463898-bb3e1dc0-48c5-4f46-81bd-3fa2c5a49877.png)
+![image](https://user-images.githubusercontent.com/75263925/219463937-4413ffdc-3a50-4d4f-86ee-c5b6c4d0a7d2.png)
+![image](https://user-images.githubusercontent.com/75263925/219463999-866ccc6f-562d-4c68-90be-1593647bdc58.png)
+![image](https://user-images.githubusercontent.com/75263925/219464050-b01ff735-4290-4397-8fd4-2d74f5e02736.png)
